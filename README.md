@@ -1,3 +1,3 @@
 # Ephys-Analysis
 
-### functions for analysis of spiking data
+### code for analysis of spiking data and LFP
